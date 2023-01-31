@@ -7,7 +7,7 @@
     <div class="md:w-screen">
         <div class="grid md:grid-cols-2">
             <div class="flex justify-center items-center bg-eestech-1">
-                    <img class="img-width-85" src="../assets/img/ECSarajevo-white.png" alt="EESTech Challenge Sarajevo">
+                    <img class="img-width-85" src="../../assets/img/ECSarajevo-white.png" alt="EESTech Challenge Sarajevo">
             </div>
             <div class="roboto flex flex-col items-center justify-center">
                 <h1 class="text-center text-eestech-2 font-black text-6xl pb-2 mt-12">EESTech Challenge 2023</h1>

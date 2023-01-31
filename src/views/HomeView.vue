@@ -1,11 +1,13 @@
 <script setup>
-import Landing from '../components/Landing.vue'
-import About from '../components/About.vue'
+import Landing from '../partials/Home/Landing.vue'
+import About from '../partials/Home/About.vue'
+import Info from '../partials/Home/Info.vue'
 </script>
 
 <template>
 <Landing />
 <About />
+<Info />
 </template>
 
 <style scoped>
