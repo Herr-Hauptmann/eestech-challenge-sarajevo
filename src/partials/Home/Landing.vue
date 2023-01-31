@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <div class="md:w-screen">
+    <div class="max-w-screen">
         <div class="grid md:grid-cols-2">
             <div class="flex justify-center items-center bg-eestech-1">
                     <img class="img-width-85" src="../../assets/img/ECSarajevo-white.png" alt="EESTech Challenge Sarajevo">
