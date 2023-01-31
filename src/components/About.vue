@@ -10,7 +10,7 @@ let titles = [
 let descriptions = [
     "This year, the topic is Mobile App Development: Gamification. Before the beginning of the competition, the organising teams of EESTech Challenge Project are preparing educational materials that increase students' awareness and knowledge in the selected topic.",
     "Each competing team consists of three members that have the opportunity to gain practical knowledge about a technological topic that is chosen annually.",
-    "The competition is structured into two rounds: 1) The Local Rounds - Local hackathons that are organized by EESTEC branches in different European cities. 2) The Final Round - The winners of Local Rounds have the opportunity to come together and compete.",
+    "The competition is structured into two rounds: <br /> 1) The Local Rounds - Local hackathons that are organized by EESTEC branches in different European cities. <br /> 2) The Final Round - The winners of Local Rounds have the opportunity to come together and compete.",
 ]
 </script>
 

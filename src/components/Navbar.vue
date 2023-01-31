@@ -10,11 +10,10 @@ import { RouterLink } from 'vue-router'
             </router-link>
             <div class="flex md:order-2">
                 <button type="button"
-                    class="text-blue-700 bg-white hover:bg-gray-300 focus:ring-4 focus:outline-none focus:ring-grey-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Prijavi se!</button>
+                    class="text-blue-700 bg-white hover:bg-gray-300 focus:ring-4 focus:outline-none focus:ring-grey-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0">Apply now!</button>
                 <button data-collapse-toggle="navbar-cta" type="button"
                     class="inline-flex items-center bg-white p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
                     aria-controls="navbar-cta" aria-expanded="false">
-                    <span class="sr-only">Otvori glavni meni</span>
                     <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20"
                         xmlns="http://www.w3.org/2000/svg">
                         <path fill-rule="evenodd"
