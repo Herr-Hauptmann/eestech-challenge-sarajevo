@@ -1,9 +1,10 @@
 <script setup>
+import Landing from '../components/Landing.vue';
 
 </script>
 
 <template>
-<h1>Home</h1>
+<Landing />
 </template>
 
 <style scoped>
