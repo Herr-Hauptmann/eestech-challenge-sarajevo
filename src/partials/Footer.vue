@@ -8,7 +8,7 @@ import { RouterLink } from 'vue-router'
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://challenge.eestec-sa.ba/" class="flex items-center mb-4 sm:mb-0">
                 <img src="../assets/img/ECSarajevo.png" class="h-24 mr-3" alt="EESTech Sarajevo logo" />
-                <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">EESTech Challenge Sarajevo</span>
+                <span class="self-center text-md md:text-2xl font-semibold whitespace-nowrap dark:text-white">EESTech Challenge Sarajevo</span>
             </a>
             <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
                 <li>
