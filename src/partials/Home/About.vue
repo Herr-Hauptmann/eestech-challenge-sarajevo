@@ -15,7 +15,7 @@ let descriptions = [
 </script>
 
 <template>
-    <div class="container mx-auto mt-12">
+    <div class="container mx-auto mt-12" id="about">
         <h2 class="text-center text-5xl text-eestech-2">About EESTech Challenge</h2>
         <p class="my-3 text-center text-lg">EESTech Challenge (EESTEC Technology Challenge) is the students' international competition organized by EESTEC. It aims to create opportunities for European students to gain knowledge in the field of Electrical Engineering and Computer Science (EECS) and develop professional networks.</p>
         <div class="grid md:grid-cols-3 gap-2 my-9">
