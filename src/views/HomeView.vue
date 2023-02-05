@@ -3,6 +3,7 @@ import Landing from '../partials/Home/Landing.vue'
 import About from '../partials/Home/About.vue'
 import Info from '../partials/Home/Info.vue'
 import Partners from '../partials/Home/Partners.vue'
+import Contact from '../partials/Home/Contact.vue'
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import Partners from '../partials/Home/Partners.vue'
 <About />
 <Info />
 <Partners />
+<Contact />
 </template>
 
 <style scoped>
