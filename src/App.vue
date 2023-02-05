@@ -1,11 +1,13 @@
 <script setup>
 import { RouterView } from 'vue-router'
 import Navbar from './partials/Navbar.vue'
+import Footer from './partials/Footer.vue'
 </script>
 
 <template>
   <Navbar />
   <RouterView />
+  <Footer />
 </template>
 
 <style>

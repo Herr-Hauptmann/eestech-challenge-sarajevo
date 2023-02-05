@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<div class="container mx-auto my-9">
+<div class="container mx-auto my-9" id="contact">
     <h2 class="text-center text-5xl text-eestech-2">Contact us</h2>
     <p class="my-3 text-center text-md">If you have any questions or concerns please feel free to the organizers.</p>
 
