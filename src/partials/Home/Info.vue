@@ -7,7 +7,7 @@
         <h2 class="text-center text-5xl text-eestech-2">Important information</h2>
         <p class="my-3 text-center text-md">Below you can find the most crutial information regarding this event.</p>
 
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-8 my-12">
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-8 my-12 px-3">
             <div class="border-2 border-gray-400 rounded-lg p-3">
                 <div>
                     <div class="inline">
