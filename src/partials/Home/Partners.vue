@@ -70,6 +70,12 @@
             </a>
             <p class="text-center roboto text-eestech-2 text-xl">Virgin pulse</p>
         </div>
+        <div class="mx-auto my-6">
+            <a href="https://www.podravka.hr" target="_blank" rel="noopener noreferrer">
+                <img class="inline" src="../../assets/img/partners/podravka.png" alt="Podravka" width="200px">
+            </a>
+            <p class="text-center roboto text-eestech-2 text-xl">Podravka</p>
+        </div>
     </div>
 </div>
 </template>
