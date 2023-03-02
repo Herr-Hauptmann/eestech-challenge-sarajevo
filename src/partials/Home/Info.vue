@@ -19,7 +19,7 @@
                 </div>
                 <div>
                     <p class="pt-3">
-                        Applications close on 28th of February 2023, 23:59:59
+                        Applications close on 5th of March 2023, 23:59:59
                     </p>
                 </div>
             </div>
